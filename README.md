@@ -1,2 +1,2 @@
 # Todo-list
-It shares Wishlist
+It shares Wishlist.
